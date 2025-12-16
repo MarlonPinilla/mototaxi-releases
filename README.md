@@ -10,7 +10,7 @@ Este repositorio contiene las versiones de las aplicaciones de Mototaxi Colombia
 
 ## Descargas
 
-Las versiones más recientes están disponibles en la sección [Releases](https://github.com/TU_USUARIO/mototaxi-releases/releases).
+Las versiones más recientes están disponibles en la sección [Releases](https://github.com/MarlonPinilla/mototaxi-releases/releases).
 
 ## Sistema de Actualizaciones
 
